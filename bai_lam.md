@@ -1,24 +1,34 @@
 # BÀI LÀM – HACKATHON 01
 
 - **Mã đề:** 16
-- **Họ tên:** 
-- **Lớp:** 
-- **Link repository:** 
-- **Hệ điều hành (Windows/macOS):** 
-
+- **Họ tên: *Lâm Hữu Nghị* 
+- **Lớp: *HCM_KS26_CNTT1* 
+- **Link repository: *https://github.com/lamhuunghi2001-jpg/HCM_KS26_CNTT1_Nhap-mon-CNTT_Hackathon01/upload/main* 
+- **Hệ điều hành (Windows/macOS): *Windows* 
+## Bảng Thư Mục
+starter-kit/        
+|bai_lam.md/Sua-May-Tinh-Website-FINAL| .env, Logo-Sua-May-Tinh, Phieu-Sua-Thang-6, Quy-Dinh-Bao-Hanh, Repair, temp_241.tmp
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
 
 ### Các lệnh đã chạy
 
 ```shell
-# Ghi lần lượt các lệnh đã chạy, mỗi lệnh một dòng
+PS C:\Users\PC> cd E:\starter-kit
+PS E:\starter-kit> dir
 
 ```
 
 ### Kết quả liệt kê toàn bộ dự án (Windows: Get-ChildItem -Recurse -Force; macOS: ls -aR)
 
 ```text
-(Dán kết quả vào đây – xoá dòng này)
+PS E:\starter-kit> dir
+
+
+    Directory: E:\starter-kit
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
 
 ```
 
@@ -27,14 +37,18 @@
 ### Lệnh đã chạy
 
 ```shell
-# Ghi lệnh vào đây (xoá dòng này)
-
+PS C:\Users\PC> findstr "ERROR" Sua May Tinh Website FINAL
 ```
 
 ### 2 dòng lỗi đầu tiên trong daily_report.txt
 
 ```text
-(Dán kết quả vào đây – xoá dòng này)
+2026-06-28 08:57:31 [ERROR] Thanh toan bi tu choi
+2026-06-28 09:01:31 [ERROR] Thanh toan bi tu choi
+2026-06-28 09:05:31 [ERROR] Thanh toan bi tu choi
+2026-06-28 09:17:31 [ERROR] Khong tim thay trang /tra-cuu (404)
+2026-06-28 09:33:31 [ERROR] Khong tim thay trang /tra-cuu (404)
+2026-06-28 09:37:31 [ERROR] Khong tim thay trang /tra-cuu (404)
 
 ```
 
